@@ -58,15 +58,11 @@ A key emphasis of this project is **model interpretability** — using SHAP (SHa
 ```
 Final Deliverables ML Project/
 ├── README.md
-├── ML_vig:sid_python_file.ipynb              # Main Jupyter Notebook (Minneapolis + Phoenix)
+├── python_file.ipynb              # Main Jupyter Notebook (Minneapolis + Phoenix)
 ├── minnesota-dataframe.xlsx                  # Minneapolis feature dataset
 ├── arizona-dataframe.xlsx                    # Phoenix feature dataset
 ├── class-final-citations.rtf                 # Project citations/references
-├── Feedback(SELFI).png                       # Peer feedback screenshot
-├── Peer Evaluation Report.pdf               # Team peer evaluation
-├── Vig,Sid ML Project Fall 2025 Report.pdf  # Final written report
-└── Vig,Sid-ML Project Slides_For Zoom
-    Video Presentation 1.pptx               # Presentation slides
+├── Predicting future values for monthly electricity consumption.pdf  # Final written report
 ```
 
 > **Note:** The video presentation file (`.mp4`) is excluded from this repository due to file size.
